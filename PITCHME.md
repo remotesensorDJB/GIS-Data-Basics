@@ -93,15 +93,15 @@ Objects exist is a defined/bounded location
 - Lines that enclose areas @fa[angle-right] polygons
 +++
 @snap[north-west]
-![tree](images/tree.jpg) @css(Tree: Point Feature)
+![tree](images/tree.jpg) @css[text-black fragment](Tree: Point Feature)
 @snapend
 
 @snap[east]
-@css(Road: Line Feature) ![Road](images/road.jpg)
+@css[text-black fragment](Road: Line Feature) ![Road](images/road.jpg)
 @snapend
 
 @snap[south-west]
-![building](images/building.jpg) @css(Building: Polygon Feature)
+![building](images/building.jpg) @css[text-black fragment](Building: Polygon Feature)
 +++
 #### But what about a mountain? 
 ![mountain](images/mountain.png)

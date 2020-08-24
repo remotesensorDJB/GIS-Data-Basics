@@ -350,6 +350,7 @@ Some ribbons are always present; others appear only when appropriate (context se
 @box[bg-blue text-white waved box-padding](Running a tool# Icons, tabs, and menus available on tools include: <br/>1. Go back to main pane<br/>2. Options menu<br/>3. View Help<br/>4. Environments tab<br/>5. Parameter Help<br/>6. Warning<br/>7. Error<br/>8. Run)
 @snapend
 +++
+@snap[west span-40]
 ![select](images/select.jpg)
 @snapend
 

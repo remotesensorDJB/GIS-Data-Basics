@@ -285,18 +285,23 @@ From ArcInfo @fa[arrow-right] ArcGIS Pro
 @snap[south-east span-40]
 @box[bg-green text-white waved box-padding](Cheap memory<br/>More disk storage<br/>Fast networks<br/>Desktop or mobile<br/>Less training<br/>Data services)
 +++
-@snap[north span-80]
-@css[text-black](GIS Services)
-@snapend
 
 @snap[west span-40]
 ![services](images/services.jpg)
 @snapend
 
 @snap[east span-40]
-@box[bg-blue text-white waved box-padding](GIS servers provide data over the Internet<br/>Accessible to many types of platforms<br/>Clients only consume what is needed<br/>Possible to do real-time updates)
+@box[bg-blue text-white waved box-padding](GIS Services# -GIS servers provide data over the Internet<br/>-Accessible to many types of platforms<br/>-Clients only consume what is needed<br/>-Possible to do real-time updates)
 @snapend
 +++
+
+@snap[west span-40]
+![web maps](images/web-maps.jpg)
+@snapend
+
+@snap[east span-40]
+@box[bg-blue text-white waved box-padding](Web Maps# -Web maps are maps that only use GIS services<br/>-They can be shared from platform to platform<br/>-Serve as basis for complex apps)
+@snapend
 
 
 

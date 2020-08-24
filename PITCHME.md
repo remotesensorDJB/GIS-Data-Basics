@@ -124,4 +124,11 @@ Discrete objects become...@css[fragment](*vector data*)
 
 Continuous fields become...@css[fragment](*raster data*)
 +++
+@snap[west span-50]
+![vector](images/vector.jpg)
+@snapend
+
+@snap[east span-50]
+@box[bg-gray text-white waved box-padding](Vector Model# **Features** are stored map objects. **Feature classes** are collections of similar objects that share the geometry and attributes.)
++++
 

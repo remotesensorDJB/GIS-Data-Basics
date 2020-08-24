@@ -272,6 +272,7 @@ From ArcInfo @fa[arrow-right] ArcGIS Pro
 +++
 ##### Evolution of GIS
 @snap[north](As processing power, connection speeds, storage capacity, graphics capabilities increase, GIS software has evolved to leverage new paradigms.)
+@snapend
 
 @snap[south-west span-40]
 @box[bg-blue text-white waved box-padding](Expensive memory<br/>Less disk storage<br/>Slow networks<br/>Mainframe or desktop<br/>Extensive training<br/>Data silos)

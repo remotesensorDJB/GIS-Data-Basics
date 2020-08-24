@@ -136,7 +136,29 @@ Continuous fields become...@css[fragment](*raster data*)
 @snapend
 
 @snap[east span-50]
-@box[bg-gray text-white waved box-padding](Attibute Tables# Features are linked to tables containing information about the spatial objects. <br/><br/>The map object and the table data are connected by a unique integer)
+@box[bg-gray text-white waved box-padding](Attibute Tables# Features are linked to tables containing information about the spatial objects. <br/><br/>The map object and the table data are connected by a unique integer.)
 @snapend
 +++
+@snap[west span-50]
+![raster](images/raster.jpg)
+@snapend
+
+@snap[east span-50]
+@box[bg-gray text-white waved box-padding](Raster Data# The raster model breaks map areas into small squares known as cells or pixels. <br/><br/>A single numeric value is stored in each cell, such as elevation
+)
+@snapend
++++
+##### Vector vs Raster
+![Vector v Raster](images/vector-vs-raster.jpg)
+---
+##### Issues of representation
+
+The real world is *infinitely complex*...
+
+BUT, we our ability to *sample* and *store* data is **limited**. 
+
+@css[fragment](So, what gets represented, and what gets left out?)
++++
+
+
 

@@ -309,34 +309,7 @@ From ArcInfo @fa[arrow-right] ArcGIS Pro
 
 @snap[east span-40]
 @box[bg-blue text-white waved box-padding](ArcGIS Pro GUI# **Projects** contain: <br/>-Maps<br/>-Tools<br/>-Databases<br/>-Layouts<br/>-Styles<br/>-Folders<br/>-Models<br/>-Tasks<br/>-Locators)
-+++
-@snap[west span-40]
-![Panes](images/panes.jpg)
 @snapend
-
-@snap[east span-40]
-@box[bg-blue text-white waved box-padding](Panes# -Panes contain commands and settings<br/>-Movable and stackable<br/>-May have tabs and panels with more functions)
-+++
-@snap[west span-40]
-![Contents](images/contents.jpg)
-@snapend
-
-@snap[east span-40]
-@box[bg-blue text-white waved box-padding](Contents Pane# Panels of the Contents pane: <br/>-List by Drawing Order<br/>-List by Source<br/>-List by Selection<br/>-List by Editing<br/>-List by Snapping</br>List by Labeling<br/>List by Charts)
-+++
-@snap[west span-40]
-![geoprocessing](images/geoprocessing.jpg)
-@snapend
-
-@snap[east span-40]
-@box[bg-blue text-white waved box-padding](Geoprocessing Pane# The geoprocessing pane contains toolboxes and tools for added functions that extends capabilities far beyond the GUI.)
-+++
-@snap[west span-40]
-![tool](images/tool.jpg)
-@snapend
-
-@snap[east span-40]
-@box[bg-blue text-white waved box-padding](Running a tool# Icons, tabs, and menus available on tools include: <br/>1. Go back to main pane<br/>2. Options menu<br/>3. View Help<br/>4. Environments tab<br/>5. Parameter Help<br/>6. Warning<br/>7. Error<br/>8. Run)
 +++
 Ribbon Menus
 
@@ -344,6 +317,45 @@ Ribbon Menus
 
 Each ribbon contains buttons and functions organized into logical groups
 Some ribbons are always present; others appear only when appropriate (context sensitive)
++++
+@snap[west span-40]
+![Panes](images/panes.jpg)
+@snapend
+
+@snap[east span-40]
+@box[bg-blue text-white waved box-padding](Panes# -Panes contain commands and settings<br/>-Movable and stackable<br/>-May have tabs and panels with more functions)
+@snapend
++++
+@snap[west span-40]
+![Contents](images/contents.jpg)
+@snapend
+
+@snap[east span-40]
+@box[bg-blue text-white waved box-padding](Contents Pane# Panels of the Contents pane: <br/>-List by Drawing Order<br/>-List by Source<br/>-List by Selection<br/>-List by Editing<br/>-List by Snapping</br>List by Labeling<br/>List by Charts)
+@snapend
++++
+@snap[west span-40]
+![geoprocessing](images/geoprocessing.jpg)
+@snapend
+
+@snap[east span-40]
+@box[bg-blue text-white waved box-padding](Geoprocessing Pane# The geoprocessing pane contains toolboxes and tools for added functions that extends capabilities far beyond the GUI.)
+@snapend
++++
+@snap[west span-40]
+![tool](images/tool.jpg)
+@snapend
+
+@snap[east span-40]
+@box[bg-blue text-white waved box-padding](Running a tool# Icons, tabs, and menus available on tools include: <br/>1. Go back to main pane<br/>2. Options menu<br/>3. View Help<br/>4. Environments tab<br/>5. Parameter Help<br/>6. Warning<br/>7. Error<br/>8. Run)
+@snapend
++++
+![select](images/select.jpg)
+@snapend
+
+@snap[east span-40]
+@box[bg-blue text-white waved box-padding](Select layer by attribute tool# -Selects features based on values in the table<br/><br/>-Highlights features in the table and on the map)
+@snapend
 
 
 

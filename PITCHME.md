@@ -302,6 +302,15 @@ From ArcInfo @fa[arrow-right] ArcGIS Pro
 @snap[east span-40]
 @box[bg-blue text-white waved box-padding](Web Maps# -Web maps are maps that only use GIS services<br/>-They can be shared from platform to platform<br/>-Serve as basis for complex apps)
 @snapend
++++
+@snap[west span-40]
+![Pro GUI](images/pro-gui.jpg)
+@snapend
+
+@snap[east span-40]
+@box[bg-blue text-white waved box-padding](ArcGIS Pro GUI# **Projects** contain: <br/>-Maps<br/>-Tools<br/>-Databases<br/>-Layouts<br/>-Styles<br/>-Folders<br/>-Models<br/>-Tasks<br/>-Locators)
++++
+
 
 
 

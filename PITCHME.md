@@ -1,4 +1,4 @@
-title[GIS Data Basics]
+@title[GIS Data Basics]
 GIS Data Basics
 -------------------------------
 ### @fa[globe fa-5x]

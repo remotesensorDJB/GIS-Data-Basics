@@ -13,7 +13,13 @@ GIS Data Basics
 ---
 @title[Conceptual Models vs Data Models]
 
-@box[bg-grey text-black west span-40 rounded box-padding fragment](First, a question...)
+@snap[west span-40]
+@box[bg-gray text-black rounded box-padding fragment](First, a question...)
+@snapend
 
-@css[fragment](What is GIS data?)
+@snap[east span-50]
+@box[bg-gray text-black rounded box-padding fragment(What is GIS data?)
+@snapend
++++
+
 +++

@@ -92,7 +92,7 @@ Objects exist is a defined/bounded location
 - Connected sets of points @fa[angle-right] lines
 - Lines that enclose areas @fa[angle-right] polygons
 +++
-@snap[north-west]
+@snap[north-west span-80]
 ![tree](images/tree.jpg) @css[text-black fragment](Tree: Point Feature)
 @snapend
 

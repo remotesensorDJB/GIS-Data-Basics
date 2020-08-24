@@ -43,3 +43,21 @@ In the simplest terms, GIS data are representations of reality.
 
 ![VR](https://media.giphy.com/media/26AHxbQMIf0CzRdTO/giphy.gif)
 +++
+GIS data are...
+
+- **Models** for understanding the real world.
+- **Structures** to facilitate knowledge
+- **Links** between
+    - Place/Location
+	- Time (whether explicit or not)
+	- Attributes/Descriptions
++++
+Could these terms not be used to describe...
+
+- Oral/written accounts?
+- Paper maps? 
+- Mental maps? 
+
+What makes GIS data unique? 
++++
+

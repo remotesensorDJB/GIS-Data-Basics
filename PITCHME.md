@@ -18,7 +18,7 @@ GIS Data Basics
 @snapend
 
 @snap[east span-50]
-@box[bg-gray text-black rounded box-padding fragment(What is GIS data?)
+@box[bg-gray text-black rounded box-padding fragment](What is GIS data?)
 @snapend
 +++
 

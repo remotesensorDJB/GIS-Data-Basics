@@ -97,7 +97,8 @@ Objects exist is a defined/bounded location
 @snapend
 
 @snap[east]
-@css[text-black fragment](Road: Line Feature) ![Road](images/road.jpg)
+@css[text-black fragment](Road: Line Feature) 
+![Road](images/road.jpg)
 @snapend
 
 @snap[south-west]

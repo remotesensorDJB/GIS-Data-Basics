@@ -193,7 +193,59 @@ Two representations of the same feature, at different source scales...
 - No data are perfect...always a compromise
 - **Quality is defined as the fitness of the data for the intended use**
     - Data that works for one problem may be unsuitable for another.
-- As an GIS user, it is *your* 	
+- As an GIS user, it is *your* responsibilty to determine the suitability of your data to its intended use. 
++++
+##### Data Accuracy
+Multiple dimensions to accuracy...
+
+- Geometric accuracy
+- Thematic accuracy
+- Logical consistency
++++
+##### Geometric accuracy
+
+Is the feature where it says it is?	
+
+- Errors from source data (GPS, image data, digitzing) can propegate during processing
+- *Data validation* compares one dataset to a high accuracy reference to determine accuracy.
++++
+##### Thematic accuracy
+
+How accurate are the attributes? 
+
+- How was it measured? 
+- What was the accuracy of the measurement? 
+- What sources of error were present? 
++++
+##### Logical consistency
+
+How well does the data represent the real world? 
+
+- **Topology** @fa[arrow-right] rules that spatial data must adhere to.
+- Roads must connect to ones another
+- County boundaries cannot have gaps or overlaps
+- City points must be contained within county polygons. 
++++
+![topology](images/topology.jpg)
++++
+##### Precision
+
+**Precision** can mean one of two things in science...
+
+@ul
+- How many significant digits/decimal places in a measurement?
+    - "The GPS device is precise to 1-meter".
+- The statistical variability of a repeated measurement.
+    - 20 GPS readings of a location  have a std. dev. of 5 meters. The *precision* is ~10 meters.
++++
+##### Accuracy vs. Precision
+
+![accuracy vs precision](images/accuracy-precision.png)
++++
+
+ 
+
+
 	
 
 

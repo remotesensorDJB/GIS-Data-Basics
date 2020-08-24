@@ -76,12 +76,12 @@ In GIS, we rely on two primary models...
 
 
 
-@snap[south-west span-20]
-@box[bg-blue text-white rounded box-padding](Discrete Objects)
+@snap[south-west span-40]
+@box[bg-blue text-white rounded box-padding fragment](Discrete Objects)
 @snapend
 
-@snap[south-east span-20]
-@box[bg-green text-white rounded box-padding](Continuous Fields)
+@snap[south-east span-40]
+@box[bg-green text-white rounded box-padding fragment](Continuous Fields)
 @snapend
 +++
 

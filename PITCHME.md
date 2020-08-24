@@ -166,7 +166,7 @@ BUT, we our ability to *sample* and *store* data is **limited**.
 +++
 1 cm on map = 100,000 cm on ground
 
-![scale](images/scale.jpg)
+![scale](images/scale.png)
 +++
 **Large** scale maps have features that appear *larger* than they would in **small** scale maps.
 

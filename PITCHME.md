@@ -9,7 +9,7 @@ GIS Data Basics
 #### the plan
 - The way I see it...conceptual models @fa[arrow-right] data models
 - Issues of representation
-- An evolution of the ArcGIS platform
+- The evolution of the ArcGIS platform
 ---
 @title[Conceptual Models vs Data Models]
 
@@ -243,6 +243,53 @@ How well does the data represent the real world?
 
 ![accuracy vs precision](images/accuracy-precision.png)
 +++
+##### Data Citations
+**Citing data is a professional and ethical responsibility**
+
+A good citation enables someone to find the source should they wish to obtain a copy
+
+Formats may vary for different agencies or companies
++++
+##### Citation Format
+
+**Data set name (Year published) [source type]. Producer name, producer contact information. Resource URL: [Date accessed].**
++++
+##### Citation Examples
+
+Black Hills RIS Vegetation Database (2008) [downloaded file]. Black Hills National Forest, Custer, SD. URL: http://www.fs.usda.gov/main/blackhills/landmanagement/gis [August, 2010].
+
+Esri™ Data and Maps (2012) [DVD]. Esri™, Inc., Redlands, CA.
+
+National Hydrography Dataset (2015) [downloaded file]. United States Geological Survey on the National Map Viewer. URL: http://viewer.nationalmap.gov/viewer/ [July 23, 2015].
+
+USA Topo Maps (2009) [map service]. Esri™ on ArcGIS Online. URL: http://server.arcgisonline. com/ arcgis/services/USA_Topo_Maps/MapServer [January 1, 2012].
+---
+### The Evolution of ArcGIS 
+
+From ArcInfo @fa[arrow-right] ArcGIS Pro
++++
+![ArcGIS History](images/arc-history..jpg)
++++
+##### Software Tiers
+![Tiers](images/arc-functionality.jpg)
++++
+##### Evolution of GIS
+As processing power, connection speeds, storage capacity, graphics capabilities increase, GIS software has evolved to leverage new paradigms.
+
+@snap[south-west span-40]
+@box[bg-blue text-white waved box-padding](Expensive memory<br/>Less disk storage<br/>Slow networks<br/>Mainframe or desktop<br/>Extensive training<br/>Data silos)
+@snapend
+
+@snap[south span-20]
+@fa[arrow-right]
+@snapend
+
+@snap[south-east span-40]
+@box[bg-green text-white waved box-padding](Cheap memory<br/>More disk storage<br/>Fast networks<br/>Desktop or mobile<br/>Less training<br/>Data services)
++++
+
+
+
 
  
 

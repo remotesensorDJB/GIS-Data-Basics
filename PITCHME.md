@@ -14,7 +14,7 @@ GIS Data Basics
 @title[Conceptual Models vs Data Models]
 
 @snap[west span-40]
-@box[bg-gray text-black rounded box-padding fragment](First, a question...)
+@css[fragment](First, a question...)
 @snapend
 
 @snap[east span-50]

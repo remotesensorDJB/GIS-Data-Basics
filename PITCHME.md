@@ -237,6 +237,7 @@ How well does the data represent the real world?
     - "The GPS device is precise to 1-meter".
 - The statistical variability of a repeated measurement.
     - 20 GPS readings of a location  have a std. dev. of 5 meters. The *precision* is ~10 meters.
+@ulend
 +++
 ##### Accuracy vs. Precision
 

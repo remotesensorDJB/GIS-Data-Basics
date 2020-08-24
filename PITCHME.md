@@ -322,7 +322,7 @@ From ArcInfo @fa[arrow-right] ArcGIS Pro
 @snapend
 
 @snap[east span-40]
-@box[bg-blue text-white waved box-padding](Contents Pane# Panels of the Contents pane: -List by Drawing Order<br/>-List by Source<br/>-List by Selection<br/>-List by Editing<br/>-List by Snapping</br>List by Labeling<br/>List by Charts)
+@box[bg-blue text-white waved box-padding](Contents Pane# Panels of the Contents pane: <br/>-List by Drawing Order<br/>-List by Source<br/>-List by Selection<br/>-List by Editing<br/>-List by Snapping</br>List by Labeling<br/>List by Charts)
 +++
 @snap[west span-40]
 ![geoprocessing](images/geoprocessing.jpg)

@@ -256,13 +256,10 @@ Formats may vary for different agencies or companies
 +++
 ##### Citation Examples
 
-Black Hills RIS Vegetation Database (2008) [downloaded file]. Black Hills National Forest, Custer, SD. URL: http://www.fs.usda.gov/main/blackhills/landmanagement/gis [August, 2010].
-
-Esri™ Data and Maps (2012) [DVD]. Esri™, Inc., Redlands, CA.
-
-National Hydrography Dataset (2015) [downloaded file]. United States Geological Survey on the National Map Viewer. URL: http://viewer.nationalmap.gov/viewer/ [July 23, 2015].
-
-USA Topo Maps (2009) [map service]. Esri™ on ArcGIS Online. URL: http://server.arcgisonline. com/ arcgis/services/USA_Topo_Maps/MapServer [January 1, 2012].
+- Black Hills RIS Vegetation Database (2008) [downloaded file]. Black Hills National Forest, Custer, SD. URL: http://www.fs.usda.gov/main/blackhills/landmanagement/gis [August, 2010].
+- Esri™ Data and Maps (2012) [DVD]. Esri™, Inc., Redlands, CA.
+- National Hydrography Dataset (2015) [downloaded file]. United States Geological Survey on the National Map Viewer. URL: http://viewer.nationalmap.gov/viewer/ [July 23, 2015].
+- USA Topo Maps (2009) [map service]. Esri™ on ArcGIS Online. URL: http://server.arcgisonline. com/ arcgis/services/USA_Topo_Maps/MapServer [January 1, 2012].
 ---
 ### The Evolution of ArcGIS 
 

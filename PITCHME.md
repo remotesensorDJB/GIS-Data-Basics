@@ -21,7 +21,7 @@ GIS Data Basics
 @css[fragment](What *IS* GIS data?)
 @snapend
 +++
-@snap[north west span-20]
+@snap[north span-20]
 @css[fragment](A layer??)
 @snapend
 
@@ -29,10 +29,10 @@ GIS Data Basics
 @css[fragment](A shapefile?)
 @snapend
 
-@snap[north east span-60]
+@snap[east span-60]
 @css[fragment](An image?)
 @snapend
 
-@snap[south west span-80]
+@snap[south span-80]
 @css[fragment](A GPS file?)
 +++

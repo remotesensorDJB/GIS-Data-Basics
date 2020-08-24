@@ -271,7 +271,7 @@ From ArcInfo @fa[arrow-right] ArcGIS Pro
 ![Tiers](images/arc-functionality.jpg)
 +++
 ##### Evolution of GIS
-As processing power, connection speeds, storage capacity, graphics capabilities increase, GIS software has evolved to leverage new paradigms.
+@snap[north](As processing power, connection speeds, storage capacity, graphics capabilities increase, GIS software has evolved to leverage new paradigms.)
 
 @snap[south-west span-40]
 @box[bg-blue text-white waved box-padding](Expensive memory<br/>Less disk storage<br/>Slow networks<br/>Mainframe or desktop<br/>Extensive training<br/>Data silos)

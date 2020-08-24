@@ -35,4 +35,5 @@ GIS Data Basics
 
 @snap[south span-80]
 @css[fragment](A GPS file?)
+@snapend
 +++

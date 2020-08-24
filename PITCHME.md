@@ -60,4 +60,26 @@ Could these terms not be used to describe...
 
 What makes GIS data unique? 
 +++
+**Digital spatial representations**
+
+Before we get to @fa[arrow-up], we have to answer...
+
+- What to represent?
+- How we represent it? 
+    - What **conceptual model** do we adopt? 
++++
+##### Conceptual models
+
+How are geographic features distributed in the real world?
+
+In GIS, we rely on two primary models...
+
+@snap[west span-40]
+@box[bg-blue text-white rounded box-padding](Discrete Objects)
+@snapend
+
+@snap[east span-60]
+@box[bg-red text-white rounded box-padding](Continuous Fields)
+@snapend
++++
 

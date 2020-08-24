@@ -144,8 +144,7 @@ Continuous fields become...@css[fragment](*raster data*)
 @snapend
 
 @snap[east span-50]
-@box[bg-gray text-white waved box-padding](Raster Data# The raster model breaks map areas into small squares known as cells or pixels. <br/><br/>A single numeric value is stored in each cell, such as elevation
-)
+@box[bg-gray text-white waved box-padding](Raster Data# The raster model breaks map areas into small squares known as cells or pixels. <br/><br/>A single numeric value is stored in each cell, such as elevation.)
 @snapend
 +++
 ##### Vector vs Raster

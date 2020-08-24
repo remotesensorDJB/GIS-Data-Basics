@@ -7,6 +7,13 @@ GIS Data Basics
 ---
 @title[the plan]
 #### the plan
-- Everything happens..._________?
-- What's in a GIS?
-- Discussion: What is GIS to YOU?
+- The way I see it...conceptual models @fa[arrow-right] data models
+- Issues of representation
+- An evolution of the ArcGIS platform
+---
+@title[Conceptual Models vs Data Models]
+
+@box[text-black span 80](First, a question...)
+
+@css[fragment](What is GIS data?)
++++

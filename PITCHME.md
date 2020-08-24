@@ -74,6 +74,8 @@ How are geographic features distributed in the real world?
 
 In GIS, we rely on two primary models...
 
+
+
 @snap[west span-40]
 @box[bg-blue text-white rounded box-padding](Discrete Objects)
 @snapend

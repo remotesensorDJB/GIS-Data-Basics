@@ -185,7 +185,15 @@ BUT, we our ability to *sample* and *store* data is **limited**.
 +++
 ![generalize 2](images/generalize2.jpg)
 +++
+Two representations of the same feature, at different source scales...
 
+![scale conflict](images/scale-conflict.jpg)
++++
+##### Data Quality
+- No data are perfect...always a compromise
+- **Quality is defined as the fitness of the data for the intended use**
+    - Data that works for one problem may be unsuitable for another.
+- As an GIS user, it is *your* 	
 	
 
 

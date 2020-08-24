@@ -18,7 +18,7 @@ GIS Data Basics
 @snapend
 
 @snap[east span-50]
-@css[fragment](What *IS* GIS data?)
+@css[fragment](What *ARE* GIS data?)
 @snapend
 +++
 @snap[north span-20]
@@ -36,4 +36,10 @@ GIS Data Basics
 @snap[south span-80]
 @css[fragment](A GPS file?)
 @snapend
++++
+While all are terms for GIS data of some type, none really gets at the essence of what GIS data really are?
++++
+In the simplest terms, GIS data are representations of reality. 
+
+![VR](https://media.giphy.com/media/26AHxbQMIf0CzRdTO/giphy.gif)
 +++

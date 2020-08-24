@@ -265,7 +265,7 @@ Formats may vary for different agencies or companies
 
 From ArcInfo @fa[arrow-right] ArcGIS Pro
 +++
-![ArcGIS History](images/arc-history..jpg)
+![ArcGIS History](images/arc-history.jpg)
 +++
 ##### Software Tiers
 ![Tiers](images/arc-functionality.jpg)

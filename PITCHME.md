@@ -136,7 +136,7 @@ Continuous fields become...@css[fragment](*raster data*)
 @snapend
 
 @snap[east span-50]
-@box[bg-gray text-white waved box-padding](Attibute Tables# Features are linked to tables containing information about the spatial objects. <br/>The map object and the table data are connected by a unique integer)
+@box[bg-gray text-white waved box-padding](Attibute Tables# Features are linked to tables containing information about the spatial objects. <br/><br/>The map object and the table data are connected by a unique integer)
 @snapend
 +++
 

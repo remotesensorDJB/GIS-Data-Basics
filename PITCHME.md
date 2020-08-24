@@ -362,7 +362,7 @@ Some ribbons are always present; others appear only when appropriate (context se
 ![catalog](images/catalog.jpg)
 @snapend
 
-@snap[east span-40]
+@snap[east span-50]
 @box[bg-blue text-white waved box-padding](Catalog Pane# The Catalog pane accesses many types of items in the project. It has four tabs: <br/>-Project, for local resources.<br/>-Portal, for online resources.<br/>-Favorites, to store locations.<br/>-Notifications, to receive info about topics such as software updates.)
 @snapend
 

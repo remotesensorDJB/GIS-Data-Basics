@@ -152,12 +152,41 @@ Continuous fields become...@css[fragment](*raster data*)
 ---
 ##### Issues of representation
 
-The real world is *infinitely complex*...
+The real world is **infinitely complex**...
 
 BUT, we our ability to *sample* and *store* data is **limited**. 
 
 @css[fragment](So, what gets represented, and what gets left out?)
 +++
+@snap[north]
+@css[text-black](Often, the **scale** of our data dictates the level of detail we can achieve)
+@snapend
+@snap[south]
+@box[bg-gray text-white waved box-padding](Map Scale# Map scale is the ratio of distance on the map to distance on the ground. <br/><br/> It is dimensionless and can be expressed in any units: cm or inches or mm.)
++++
+1 cm on map = 100,000 cm on ground
+
+![scale](images/scale.jpg)
++++
+**Large** scale maps have features that appear *larger* than they would in **small** scale maps.
+
+![large v small](images/large-vs-small.jpg)
++++
+##### Scale Impacts
+- Generalization: Simplifying features for map display
+    - Loss of detail/omission of features at **smaller** scales
+    - The *Baltimore Phenomenon*
+
+- Aggregation and MAUP
+    - At what scale do features merge to become one? 
+	- Where do we draw the boundaries of aggregate units?
++++
+![generalize](images/generalize.jpg)
++++
+![generalize 2](images/generalize2.jpg)
++++
+
+	
 
 
 

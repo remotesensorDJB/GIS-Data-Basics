@@ -270,8 +270,9 @@ From ArcInfo @fa[arrow-right] ArcGIS Pro
 ##### Software Tiers
 ![Tiers](images/arc-functionality.jpg)
 +++
+@snap[north]
 ##### Evolution of GIS
-@snap[north](As processing power, connection speeds, storage capacity, graphics capabilities increase, GIS software has evolved to leverage new paradigms.)
+As processing power, connection speeds, storage capacity, graphics capabilities increase, GIS software has evolved to leverage new paradigms.
 @snapend
 
 @snap[south-west span-40]

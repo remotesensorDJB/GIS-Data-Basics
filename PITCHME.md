@@ -84,4 +84,41 @@ In GIS, we rely on two primary models...
 @box[bg-green text-white rounded box-padding fragment](Continuous Fields)
 @snapend
 +++
+##### Discrete Objects
+
+Objects exist is a defined/bounded location
+
+- Single features @fa[angle-right] points
+- Connected sets of points @fa[angle-right] lines
+- Lines that enclose areas @fa[angle-right] polygons
++++
+@snap[north-west]
+![tree](images/tree.jpg) Tree: Point Feature
+@snapend
+
+@snap[east]
+Road: Line Feature ![Road](images/road.jpg)
+@snapend
+
+@snap[south-west]
+![building](images/building.jpg) Building: Polygon Feature
++++
+#### But what about a mountain? 
+![mountain](images/mountain.png)
++++
+##### Continuous Fields
+
+Each feature/quantity is measurable *everywhere*
+
+- Elevation
+- Population *density*
+- Precipitation amount
+- Percent canopy closure
++++
+From Conceptual model @fa[arrow-right] Data model...
+
+Discrete objects become...@css[fragment](*vector data*)
+
+Continuous fields become...@css[fragment](*raster data*)
++++
 

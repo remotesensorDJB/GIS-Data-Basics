@@ -76,11 +76,11 @@ In GIS, we rely on two primary models...
 
 
 
-@snap[west span-40]
+@snap[south west span-40]
 @box[bg-blue text-white rounded box-padding](Discrete Objects)
 @snapend
 
-@snap[east span-60]
+@snap[south east span-60]
 @box[bg-red text-white rounded box-padding](Continuous Fields)
 @snapend
 +++

@@ -365,6 +365,25 @@ Some ribbons are always present; others appear only when appropriate (context se
 @snap[east span-50]
 @box[bg-blue text-white waved box-padding](Catalog Pane# The Catalog pane accesses many types of items in the project. It has four tabs: <br/>-**Project**, for local resources.<br/>-**Portal**, for online resources.<br/>-**Favorites**, to store locations.<br/>-**Notifications**, to receive info about topics such as software updates.)
 @snapend
++++
+@snap[west span-40]
+![layers](images/layers2.jpg)
+@snapend
+
+@snap[east span-40]
+@box[bg-blue text-white waved box-padding](Layers# -Source data become layers when added to a map. <br/>-Layers store properties and settings for display. <br/>-Each layer’s symbols and settings can be customized to appear and behave in the desired fashion.))
+@snapend
++++
+@snap[west span-40]
+![symbology](images/symbology.jpg)
+@snapend
+
+@snap[east span-50]
+@box[bg-blue text-white waved box-padding](Symbology Pane# -Used to pick and modify symbols for layers <br/>-**Gallery** tab is used to choose a symbol from the available styles.<br/>-The **Properties** tab is used to manipulate the settings of the chosen symbol.)
+@snapend
+---
+### End of the line! 
+Happy mapping!
 
 
 

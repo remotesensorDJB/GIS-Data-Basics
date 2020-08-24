@@ -18,8 +18,21 @@ GIS Data Basics
 @snapend
 
 @snap[east span-50]
-@box[bg-gray text-black rounded box-padding fragment](What is GIS data?)
+@css[fragment](What *IS* GIS data?)
 @snapend
 +++
+@snap[north west span-20]
+@css[fragment](A layer??)
+@snapend
 
+@snap[west span-40]
+@css[fragment](A shapefile?)
+@snapend
+
+@snap[north east span-60]
+@css[fragment](An image?)
+@snapend
+
+@snap[south west span-80]
+@css[fragment](A GPS file?)
 +++
